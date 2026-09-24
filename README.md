@@ -2,8 +2,8 @@
 Real name Daniil Strokalov
 
 **C# / .NET Developer**  
-Backend • Desktop • Mobile  
-I build services, tools, and digital products.
+Backend • Desktop • Mobile • System Integration  
+I build backend services, developer tools, desktop/mobile applications, and integrations with hardware and external systems.
 
 
 ## 🛠 Tech Stack
@@ -11,15 +11,26 @@ I build services, tools, and digital products.
 **Languages:**  
 C# • SQL • Java
 
-**Frameworks & Tools:**  
-.NET 10 • ASP.NET Core • MAUI Blazor Hybrid • WPF • Blazor • WinForms
+**.NET & Applications:**  
+.NET 10 • ASP.NET Core • Blazor • MAUI Blazor Hybrid • WPF • WinForms
 
 **Backend & Architecture:**  
-REST APIs • Clean Architecture • Microservices
+REST APIs • Clean Architecture • Dependency Injection • Authentication & Authorization • Microservices
+
+**Data & Persistence:**  
+PostgreSQL • SQL Server • EF Core • Npgsql • Dapper • ADO.NET
+
+**Concurrency & Async:**  
+async/await • Task • Thread • lock • Interlocked • CancellationToken
 
 **DevOps & Environment:**  
-Docker • Linux • CI/CD • Nginx
+Docker • Podman • Linux • Git • GitFlow • GitHub Actions • CI/CD • Nginx
 
-**Databases:**  
-PostgreSQL • SQL Server
+**Testing:**  
+xUnit • Moq • Unit Testing • Integration Testing
 
+**Integration & Hardware:**  
+BLE • UART • TCP • REST integrations
+
+**Additional Experience:**  
+OpenCV • ONNX Runtime • Intel RealSense • Unity
